@@ -9,6 +9,8 @@ public class TestCalculation {
 		int i = scanner.nextInt();
 		
 		System.out.println("i % 3 = "+ (i % 3));
+		
+		scanner.close();
 	}
 	
 }
