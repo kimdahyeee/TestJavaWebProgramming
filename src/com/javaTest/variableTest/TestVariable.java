@@ -1,6 +1,5 @@
 package com.javaTest.variableTest;
 
-//2016.11.02 변수 공부 
 public class TestVariable {
 	public static void main(String[] args) {
 		int i =10;
