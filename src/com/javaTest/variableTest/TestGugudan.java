@@ -10,6 +10,8 @@ public class TestGugudan {
 		
 		TestGugudan testG = new TestGugudan();
 		testG.gugudan(input);
+		
+		scanner.close();
 	}
 	
 	public void gugudan(int i){
@@ -17,4 +19,6 @@ public class TestGugudan {
 			System.out.println(i + " * " + j +" = "+ (i*j));
 		}
 	}
+	
+	
 }
